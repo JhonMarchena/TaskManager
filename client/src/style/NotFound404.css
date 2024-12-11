@@ -1,0 +1,41 @@
+.not-found{
+    display: flex;
+    color: white; 
+    width: 100dvw;
+    height: 100dvh;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.containerNotFound {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 60rem;
+    gap: 20px;
+}
+
+.containerNotFound > h2 {
+    font-size: 12rem;
+}
+
+.contentNotFound {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.contentNotFound > p {
+    font-size: 3rem;
+    font-weight: bold;
+    padding: 0px;
+    margin: 0px;
+}
+
+.contentNotFound > a, .contentNotFound > span {
+    font-size: 1.3rem;
+    color: white;
+}
+
