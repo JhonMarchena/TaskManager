@@ -14,7 +14,7 @@
 <ul>
 <li>HTML || CSS</li>
 <li>JavaScript </li>!
-<li>React<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" /></li> 
+<li><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" /></li> 
 <li>Axios</li>
 <li>Formik</li>
 </ul>
