@@ -13,7 +13,7 @@
 <h2>FrontEnd</h2>
 <ul>
 <li>HTML || CSS</li>
-<li>JavaScript </li>![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/69/JavaScript-logo.png)
+<li>JavaScript </li>!
 <li>React</li>
 <li>Axios</li>
 <li>Formik</li>
