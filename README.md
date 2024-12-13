@@ -13,7 +13,7 @@
 <h2>FrontEnd</h2>
 <ul>
 <li>HTML || CSS</li>
-<li>JavaScript :cloud: JavaScript</li>
+<li>JavaScript ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/69/JavaScript-logo.png)</li>
 <li>React</li>
 <li>Axios</li>
 <li>Formik</li>
