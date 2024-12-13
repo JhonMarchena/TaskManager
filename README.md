@@ -13,8 +13,10 @@
 <h2>FrontEnd</h2>
 <ul>
 <li>HTML || CSS</li>
-<li>JavaScript</li>
+<li>JavaScript :cloud: JavaScript</li>
 <li>React</li>
 <li>Axios</li>
 <li>Formik</li>
 </ul>
+
+<h2>Instalación || Installation</h2>
