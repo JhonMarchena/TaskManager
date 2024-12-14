@@ -21,3 +21,16 @@
 </ul>
 
 <h2>Instalación || Installation</h2>
+<h3>Backend</h3>
+<ol>
+<li>Ingresar a la terminal de Visual Studio Code e instalar las dependencias que estan dentro de la carpeta TaskManager (npm install).</li>
+<li>Ir a la sección donde dice databases y copiar y pegar dentro de tu gestor de bases de datos de MySQL.</li> 
+<li>Cambiar en el archivo db.js los datos a los datos de tu base de datos (host, port, user, password, database).</li>
+</ol>
+
+<h3>FrontEnd</h3>
+<ol>
+<li>Ingresar a la terminal de Visual Studio Code e instalar las dependencias que estan dentro de la carpeta TaskManager/Client (npm install).</li>
+</ol>
+
+
