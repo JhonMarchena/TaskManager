@@ -48,7 +48,7 @@
   <1i>Entrar a la carpeta TaskManager y ya que estemos aqui escribimos en la terminal de Visual "npm run dev" para iniciar el server del BackEnd</li>
   <1i>Entrar a la carpeta TaskManager/Client y ya que estemos aqui escribimos en la terminal de Visual "npm run dev" para iniciar el server del FrontEnd</li>
   <1i>Entrar al link que abrio la terminal de TaskManager/Client para poder usar el proyecto, se ve de esta manera: (http://localhost:1234)</li>
-</ul>
+</ul><br/>
 <ul>
   <li>Navigate to the TaskManager folder, and once there, type "npm run dev" in the Visual Studio terminal to start the BackEnd server.</li>
   <li>Navigate to the TaskManager/Client folder, and once there, type "npm run dev" in the Visual Studio terminal to start the FrontEnd server.</li>
