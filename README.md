@@ -9,6 +9,7 @@
 <li><img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" /></li>
 <li><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /></li>
 <li><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" /></li>
+<li><img src="https://img.shields.io/badge/-CORS-FFD700?style=flat&logoColor=white" /></li>
 </ul>
 <h2>FrontEnd</h2>
 <ul>
